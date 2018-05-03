@@ -1,2 +1,2 @@
 # python
-jekins
+jenkins
